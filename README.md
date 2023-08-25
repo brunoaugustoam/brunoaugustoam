@@ -1,4 +1,4 @@
-## Hi there! I'm Bruno, a geologist and MSc in computer science.
+## Hi there! I'm Bruno, a geologist and MSc in computer science
 
  I’m currently working as a research geologist at the Federal University of Minas Gerais as a service provider for Petrobras in a project to develop automated solutions for geological processing and interpretation, mostly with seismic and petrophysical data.
 
